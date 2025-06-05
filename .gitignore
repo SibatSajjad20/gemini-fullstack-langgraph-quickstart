@@ -34,6 +34,8 @@ Thumbs.db
 *.sw?
 
 # Optional backend venv (if created in root)
+
+#
 #.venv/ 
 
 # Byte-compiled / optimized / DLL files
@@ -111,6 +113,8 @@ docs/_build/
 
 # PyBuilder
 .pybuilder/
+targer
+.pybuilder/olo
 target/
 
 # Jupyter Notebook
